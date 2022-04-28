@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "42C18FB8B2C2447E66A5485B69814D8E",
+  "keywordClasses": [
+    {
+      "name": "MakeMyTrip_Utils",
+      "keywordMethods": [
+        {
+          "name": "closePopup",
+          "parameters": [
+            {
+              "name": "driver",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "org.openqa.selenium.WebDriver",
+                "unresolvedClassName": "WebDriver",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Refresh browser\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
